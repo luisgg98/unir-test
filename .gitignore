@@ -19,3 +19,4 @@ sonar/
 .scannerwork/
 
 jmeter.log
+unit-test-result/*
